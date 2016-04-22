@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/kkaczmarek/work/repos/android-testing/unit/AndroidDownloadFileByProgressBar/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/kkaczmarek/work/repos/android-testing/unit/AndroidDownloadFileByProgressBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 69,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 88,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/kkaczmarek/work/repos/android-testing/unit/AndroidDownloadFileByProgressBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 88,
+                        "endOffset": 143
+                    }
+                }
+            }
+        ]
+    }
+]
